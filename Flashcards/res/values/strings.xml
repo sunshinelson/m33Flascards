@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flashcards</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Wilkommen</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="kategorien">Kategorien</string>
+    <string name="title_activity_edit_list_set">EditListSetActivity</string>
+    <string name="ok_button">OK</string>
+    <string name="lernen">Lernen</string>
+    <string name="myflashcards">Myflashcards</string>
+    <string name="hinzufuegen">Hinzufügen</string>
+    <string name="entfernen">entfernen</string>
+    <string name="back">zurück</string>
+    <string name="title_activity_add_katergory_activity2">AddKatergoryActivity2</string>
+    <string name="kategory_choose">Bitte Kategorie wählen</string>
+
+</resources>
